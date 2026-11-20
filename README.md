@@ -24,7 +24,7 @@ I'm a Bangladeshi developer passionate about building modern web applications, e
 
 - 🚀 Creator & Developer of **Ontors AI**
 - 🌍 Founder of **Ontors World**
-- 🎓 BSc (Honours) in Mathematics — 3rd Year
+- 🎓 BSc (Honours) in Mathematics 
 - 🏫 Government KC College, National University
 - 🧠 Interested in AI, Software Engineering & Cybersecurity
 - 🌱 Always learning and building real-world projects.
