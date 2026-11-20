@@ -1,118 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4f46e5,100:06b6d4&height=210&section=header&text=Md.%20Ontor%20Sheikh&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Web%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=58" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=ONTOR%20SHEIKH&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=BUILDING%20IDEAS%20INTO%20DIGITAL%20REALITY&descAlignY=60&descSize=14&color=0:09090b,35:312e81,70:4f46e5,100:06b6d4&animation=fadeIn" />
 
 <br/>
 
-<img
-  src="https://raw.githubusercontent.com/ontorsheikh/ontorsheikh/main/ontors-github-photo-1.jfif"
-  width="190"
-  style="border-radius: 50%;"
-  alt="Md. Ontor Sheikh"
-/>
+<img src="https://raw.githubusercontent.com/ontorsheikh/ontorsheikh/main/ontors-github-photo-1.jfif" width="180" alt="Md. Ontor Sheikh" />
 
-<h2>Md. Ontor Sheikh</h2>
-<p><b>Creator & Developer of Ontors AI</b></p>
+### Md. Ontor Sheikh
+**Creator & Developer of Ontors AI** · **Founder of Ontors World**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=850&color=67E8F9&center=true&vCenter=true&width=720&lines=Web+Developer+%7C+Software+Engineering+Enthusiast;Building+Ontors+AI+with+curiosity+and+purpose;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+Every+Day" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Creator+%26+Developer+of+Ontors+AI;Exploring+AI+%26+Software+Engineering" />
+<a href="https://ontors-ai.pages.dev/"><img src="https://img.shields.io/badge/EXPLORE-ONTORS_AI-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/ontorsheikh"><img src="https://img.shields.io/badge/FOLLOW-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
-<a href="https://ontors-ai.pages.dev/">
-<img src="https://img.shields.io/badge/Explore-Ontors%20AI-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ontorsheikh">
-<img src="https://img.shields.io/badge/GitHub-ontorsheikh-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ontorsheikh&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## ✦ ABOUT
 
-I'm a Bangladeshi developer passionate about building modern web applications, exploring Artificial Intelligence, and creating useful digital solutions.
+I'm a Bangladeshi developer who enjoys turning ideas into useful digital experiences. My focus is web development, AI-powered applications, and continuous hands-on learning.
 
-- 🚀 Creator & Developer of **Ontors AI**
-- 🌍 Founder of **Ontors World**
-- 🎓 BSc (Honours) in Mathematics 
-- 🏫 Government KC College, National University
-- 🧠 Interested in AI, Software Engineering & Cybersecurity
-- 🌱 Always learning and building real-world projects.
+- 🚀 Creating **Ontors AI** — an AI assistant project.
+- 🌐 Building **Ontors World** — my digital initiative.
+- 🧩 Exploring full-stack development and practical AI.
+- 🔐 Interested in software engineering and cybersecurity.
+- 📍 Jhenaidah, Bangladesh.
 
-## 🧰 Tech Stack
+## ✦ EDUCATION
+
+| Level | Institution |
+|:--|:--|
+| BSc (Honours), Mathematics | Government KC College · National University |
+| Secondary | Harishankarpur JC Secondary School |
+| Primary | Kodalia Government Primary School |
+
+## ✦ TECHNOLOGY TOOLKIT
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,python,c,cpp,supabase,firebase,git,github,vscode&perline=8" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FRONTEND-UI%20%26%20UX-312e81?style=flat-square" />
+<img src="https://img.shields.io/badge/BACKEND-APIs-3730a3?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-APPLICATIONS-0e7490?style=flat-square" />
+<img src="https://img.shields.io/badge/TOOLS-GIT%20%26%20VS%20CODE-155e75?style=flat-square" />
+
 </div>
 
-## 🚀 Featured Projects
+## ✦ FEATURED WORK
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Ontors AI
 
-An AI assistant developed by Md. Ontor Sheikh.
+An AI assistant project focused on helpful conversations and AI-powered experiences.
 
-<a href="https://ontors-ai.pages.dev/">
-<img src="https://img.shields.io/badge/VISIT-ONTORS%20AI-4f46e5?style=for-the-badge"/>
-</a>
+<a href="https://ontors-ai.pages.dev/"><img src="https://img.shields.io/badge/OPEN_PROJECT-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌍 Ontors World
 
-My personal digital project and development initiative.
+A personal digital initiative for creating and exploring technology projects.
 
-</div>
+<img src="https://img.shields.io/badge/IN_DEVELOPMENT-0891B2?style=for-the-badge" />
 
-## 📊 GitHub Analytics
+</td>
+</tr>
+</table>
+
+## ✦ GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ontorsheikh&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=22d3ee&text_color=c9d1d9"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ontorsheikh&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ontorsheikh&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A5B4FC&icon_color=67E8F9&text_color=CBD5E1" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ontorsheikh&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=CBD5E1" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ontorsheikh&hide_border=true&background=0D1117&ring=818CF8&fire=22D3EE&currStreakLabel=818CF8&sideLabels=C9D1D9&dates=8B949E"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=ontorsheikh&hide_border=true&background=0D1117&ring=818CF8&fire=67E8F9&currStreakLabel=A5B4FC&sideLabels=CBD5E1&dates=94A3B8" />
+
+<br/>
+
+<img width="92%" src="https://github-profile-trophy.vercel.app/?username=ontorsheikh&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
-## 🏆 GitHub Trophies
+## ✦ INTERESTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ontorsheikh&theme=onestar&no-frame=true&no-bg=true&row=1&column=6"/>
+**Artificial Intelligence** · **Web Development** · **Software Engineering**
+
+**Cybersecurity** · **Mathematics** · **Open Source**
 
 </div>
 
-## 🎯 Interests
-
-`Artificial Intelligence` · `Web Development` · `Software Engineering` · `Cybersecurity` · `Mathematics` · `Open Source`
-
-## 🤝 Connect With Me
+## ✦ LET'S CONNECT
 
 <div align="center">
 
-<a href="https://github.com/ontorsheikh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://ontors-ai.pages.dev/">
-<img src="https://img.shields.io/badge/Website-4f46e5?style=for-the-badge&logo=googlechrome"/>
-</a>
+<a href="https://github.com/ontorsheikh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ontors-ai.pages.dev/"><img src="https://img.shields.io/badge/Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
-<i>Building technology with creativity, curiosity, and continuous learning.</i>
+**Stay curious. Keep building. Make ideas real.**
 
-<br/><br/>
-
-**Made with 💙 by Md. Ontor Sheikh**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:4f46e5,100:09090b" />
 
 </div>
