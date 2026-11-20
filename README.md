@@ -2,6 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4f46e5,100:06b6d4&height=210&section=header&text=Md.%20Ontor%20Sheikh&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Web%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=58" width="100%" />
 
+<br/>
+
+<img
+  src="https://raw.githubusercontent.com/ontorsheikh/ontorsheikh/main/ontors-github-photo-1.jfif"
+  width="190"
+  style="border-radius: 50%;"
+  alt="Md. Ontor Sheikh"
+/>
+
+<h2>Md. Ontor Sheikh</h2>
+<p><b>Creator & Developer of Ontors AI</b></p>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Creator+%26+Developer+of+Ontors+AI;Exploring+AI+%26+Software+Engineering" />
 
 <br/>
