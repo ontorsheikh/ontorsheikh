@@ -53,4 +53,11 @@ A personal digital project and development initiative.
 
 *Building technology with creativity, curiosity, and continuous learning.*
 
-**Created by Md. Ontor Sheikh**
+**Created by Md. Ontor Sheikh**   
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ontorsheikh&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ontorsheikh&layout=compact&hide_border=true)
