@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- COSMIC HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=ONTOR%20SHEIKH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=EXPLORING%20THE%20UNIVERSE%20OF%20TECHNOLOGY&descSize=14&descAlignY=60&animation=fadeIn&color=0:08051B,30:24104F,65:6D28D9,100:EC4899"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Md.%20ONTOR%20SHEIKH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=EXPLORING%20THE%20UNIVERSE%20OF%20TECHNOLOGY&descSize=14&descAlignY=60&animation=fadeIn&color=0:08051B,30:24104F,65:6D28D9,100:EC4899"/>
 
 <br/>
 
